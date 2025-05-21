@@ -15,4 +15,4 @@ Navigation mode will provide performance stats after the page loads (such as acc
 
 4) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.
 
-Performance (2/4 on Snapshot mode), resizing the images to a proper size, and the cache restoration.
+Edit the code so there is no unused JavaScript, resizing the images to a proper size, and the cache restoration.
